@@ -1,5 +1,5 @@
 ---
-Title: '.sin()'
+Title: '.sin(x)'
 Description: 'Returns the trigonometric sine of the specified angle.'
 Subjects:
   - 'Computer Science'
